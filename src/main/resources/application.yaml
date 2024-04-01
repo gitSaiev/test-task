@@ -1,0 +1,9 @@
+server:
+  port: 9091
+
+serviceB:
+  url: "https://api.serviceB"
+
+weather:
+  api:
+    url: "https://www.gismeteo.ru/api/"
